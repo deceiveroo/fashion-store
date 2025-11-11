@@ -13,8 +13,8 @@
     "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
-    "@auth/core": "^0.41.1",
-    "@auth/drizzle-adapter": "^1.11.1",
+    "@auth/core": "^0.34.3",
+    "@auth/drizzle-adapter": "^1.9.1",
     "@hookform/resolvers": "^5.2.2",
     "@libsql/client": "^0.15.15",
     "@stripe/stripe-js": "^8.3.0",
