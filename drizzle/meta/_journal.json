@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1762590422760,
+      "tag": "0000_wild_joseph",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1762594761942,
+      "tag": "0001_cloudy_midnight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1762595804474,
+      "tag": "0002_sturdy_earthquake",
+      "breakpoints": true
+    }
+  ]
+}
